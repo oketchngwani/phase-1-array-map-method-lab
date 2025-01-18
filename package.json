@@ -16,5 +16,8 @@
     "mocha": "^11.0.1",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "1.0.1"
+  },
+  "dependencies": {
+    "18": "0.0.0"
   }
 }
